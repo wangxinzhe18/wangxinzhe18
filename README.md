@@ -4,13 +4,11 @@
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" /> -->
 
 ### I'm Wang Xin Zhe
-
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/e8bf302ba71b9e211029fb7c25a4de1c68b89022ea172f12a5d3e392ded54d74/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616e7a686979752d632f616e7a686979752d632f6173736574732f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667" />
 -  A junior with a passion for programming
 - 🌱 Currently working in Wuhan, China.
 - 💬 Ask me about Java, TypeScript and my projects on [2484227417@qq.com](mailto:2484227417@qq.com)
 - ⚡ Fun fact: Data Analysis📊
-
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/e8bf302ba71b9e211029fb7c25a4de1c68b89022ea172f12a5d3e392ded54d74/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616e7a686979752d632f616e7a686979752d632f6173736574732f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667" />
 
 ### 🛠 技术栈 | Tech Stack
 
