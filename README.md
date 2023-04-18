@@ -39,3 +39,5 @@
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 - [wxz](https://github.com/wangxinzhe18/)
+
+![这里写你的昵称's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?wangxinzhe18&layout=compact&hide_border=true&langs_count=10)
