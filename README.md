@@ -1,7 +1,7 @@
 
 ## Hello GitHub Friends 👋
-https://github.com/tzy13755126023/tzy13755126023/raw/master/github-contribution-grid-snake.svg
-<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" /> -->
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/e8bf302ba71b9e211029fb7c25a4de1c68b89022ea172f12a5d3e392ded54d74/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616e7a686979752d632f616e7a686979752d632f6173736574732f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm Wang Xin Zhe
 
