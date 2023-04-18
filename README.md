@@ -8,7 +8,6 @@
 -  A junior with a passion for programming
 - 🌱 Currently working in Wuhan, China.
 - 💬 Ask me about Java, TypeScript and my projects on [2484227417@qq.com](mailto:2484227417@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
@@ -39,4 +38,4 @@
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [wangxinzhe18]([https://github.com/JoeyBling](https://github.com/wangxinzhe18))
+- [wxz](https://github.com/wangxinzhe18/)
