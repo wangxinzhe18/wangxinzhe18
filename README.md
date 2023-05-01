@@ -1,12 +1,12 @@
 
 ## Hello GitHub Friends 👋
-
+<img src = "https://www.hualigs.cn/image/644fc8f2323c4.jpg"/>
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" /> -->
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/e8bf302ba71b9e211029fb7c25a4de1c68b89022ea172f12a5d3e392ded54d74/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616e7a686979752d632f616e7a686979752d632f6173736574732f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wangxinzhe18&show_icons=true&theme=dracula" alt="Justlovesmile's github stats" > </p>
 
-<img src = "https://www.hualigs.cn/image/644fc8f2323c4.jpg"/>
+
          
 - **I am Wang Xin Zhe**
 -  **A junior with a passion for programming**
