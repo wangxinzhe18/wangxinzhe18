@@ -1,6 +1,6 @@
 
 ## Hello GitHub Friends 👋
-**个人网站: [王同学的Blog](https://demo.wxz666.icu/)**
+**个人网站: [王同学的Blog](https://wangxinzhe18.github.io/)**
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wangxinzhe18&show_icons=true&theme=dracula" alt="Justlovesmile's github stats" > </p>
